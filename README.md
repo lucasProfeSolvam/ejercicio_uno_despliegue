@@ -1,8 +1,7 @@
 Ejercicio 2025 Despliegue de Aplicaciones Web
 
 Indicaciones:
-- Clonarse el repositorio en su portátil
-- Crear un repositorio nuevo en Github que tenga los archivos clonados
+- Crear un repositorio nuevo en Github que tenga estos archivos.
 - Tiene que tener las siguientes ramas:
 	- main
 	- develop 
